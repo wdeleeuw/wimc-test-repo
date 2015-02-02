@@ -1,3 +1,5 @@
+#Wat commetaar vanuit de webinterface naar het git-repo
+
 git add third-file.txt
 git commit (here some comment must be supplied)
 git push 
