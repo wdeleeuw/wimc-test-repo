@@ -1,20 +1,4 @@
 
-# wimc-test-repo
-
-Editing a file in a repository. Directly within the editor.  That went smoothly. 
-
-Now we did  
-   git clone git@github.com:wdeleeuw/wimc-test-repo.git
-
-and we have the README.md file locally. 
-
-
-Before we used  https://help.github.com/articles/set-up-git/  
-  and https://help.github.com/articles/generating-ssh-keys/
-
-to set up git) 
-
-
 
 # wimc-test-repo
 
@@ -39,4 +23,11 @@ Using
 we were able to update the README.md file 
 
 Let's see if we can add a file Description.txt
- 
+
+
+Nog niet helemaal duidelijk hoe het werkt allemaal. Als er via het web gecommit wordt moet je 
+eerst pullen om voordat je can pushen. Dat is wel te begrijpen maar wat is dan de procedure: 
+
+git pull 
+git commit 
+git push ? 
