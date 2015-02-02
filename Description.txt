@@ -33,6 +33,7 @@ to set up git)
 
 Using  
  git add README.md
+ git commit
  git push
 
 we were able to update the README.md file 
